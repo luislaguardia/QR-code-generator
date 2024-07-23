@@ -16,10 +16,8 @@ If the above command fails, try this...
    pip install pillow
 
 
-====
-
-Input the link:
+I. Input the link:
 When prompted, paste the link for which you want to generate QR code.
 
-Check the output:
+II. Check the output:
 THe QR code will saved as qr_code.png as you can see in the code and it will be in the same directory as the script.
