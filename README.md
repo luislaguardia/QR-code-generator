@@ -1,7 +1,7 @@
 Python QR Code Generator
 
-- Ensure that you have installed the required libraries within the virtual environment
-- open up your terminal or command promp and then run the following command to install QR code and Pillow
+- Ensure that you have installed the required libraries within the virtual environment.
+- Open up your terminal or command promp and then run the following command to install QR code and Pillow.
 
   pip install qrcode[pil]
 
